@@ -1,4 +1,4 @@
-# Tugas 2: Analisis Persamaan Kuadrat (ax^2 + bx + c = 0)
+# Tugas 2: Analisis Persamaan Kuadrat (ax^2 + bx + c = 0) 
 print("Analisis Persamaan Kuadrat")
 a = float(input("Koefisien a: "))
 b = float(input("Koefisien b: "))
